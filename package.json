@@ -1,7 +1,7 @@
 {
-  "name": "opensense",
+  "name": "opensense-yul",
   "version": "1.0.0",
-  "main": "index.js",
+  "author": "teddav <teddav42@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.3",
